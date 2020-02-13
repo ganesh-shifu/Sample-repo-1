@@ -1,0 +1,3 @@
+Hi ,
+I have created this sample file as part of my hands on training.
+This is my first repository created in GitHub.
